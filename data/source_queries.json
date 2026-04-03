@@ -1,0 +1,26 @@
+[
+  {
+    "name": "core-exposome",
+    "query": "(exposome[Title/Abstract] OR exposomics[Title/Abstract] OR exposomic[Title/Abstract])"
+  },
+  {
+    "name": "exwas",
+    "query": "(\"environment-wide association study\"[Title/Abstract] OR ExWAS[Title/Abstract] OR EWAS[Title/Abstract])"
+  },
+  {
+    "name": "exposure-metabolomics",
+    "query": "((untargeted metabolomics[Title/Abstract] OR metabolomics[Title/Abstract]) AND (environmental exposure[Title/Abstract] OR exposure biomarker[Title/Abstract] OR exposome[Title/Abstract]))"
+  },
+  {
+    "name": "multi-omics-environment",
+    "query": "((multi-omics[Title/Abstract] OR multiomics[Title/Abstract]) AND (environmental[Title/Abstract] OR exposure[Title/Abstract]) AND (health[Title/Abstract] OR disease[Title/Abstract]))"
+  },
+  {
+    "name": "environmental-epidemiology-methods",
+    "query": "((environmental epidemiology[Title/Abstract] OR exposure science[Title/Abstract]) AND (mixture[Title/Abstract] OR mixtures[Title/Abstract] OR high-dimensional[Title/Abstract]))"
+  },
+  {
+    "name": "biomonitoring-population",
+    "query": "((biomonitoring[Title/Abstract] OR human biomonitoring[Title/Abstract]) AND (population[Title/Abstract] OR cohort[Title/Abstract] OR survey[Title/Abstract]))"
+  }
+]

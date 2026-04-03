@@ -1,0 +1,78 @@
+{
+  "generated_at": "2026-04-02T20:06:48Z",
+  "month": "2026-03",
+  "mode": "review_queue_only",
+  "updates": [],
+  "review_queue": [
+    {
+      "title": "From cradle to cortex: An exposome- and equity-centered perspective of neurocognitive aging and dementia risk in the era of climate change.",
+      "url": "https://doi.org/10.1002/alz.71158",
+      "section": "Core study designs and flagship projects",
+      "score": 41,
+      "summary": "From cradle to cortex: An exposome- and equity-centered perspective of neurocognitive aging and dementia risk in the era of climate change. appears relevant because it describes research coordination, infrastructure, or platform-scale organization for exposomics in Alzheimer's & dementia : the journal of the Alzheimer's Association."
+    },
+    {
+      "title": "Occupational exposure limits for psychosocial hazards: A promising concept or a premature leap?",
+      "url": "https://doi.org/10.5271/sjweh.4280",
+      "section": "Core study designs and flagship projects",
+      "score": 38,
+      "summary": "Occupational exposure limits for psychosocial hazards: A promising concept or a premature leap? appears relevant because it describes research coordination, infrastructure, or platform-scale organization for exposomics in Scandinavian journal of work, environment & health."
+    },
+    {
+      "title": "Why Is Colorectal Cancer Occurring Earlier? Metabolic Dysfunction, Underrecognized Carcinogens, and Emerging Controversies.",
+      "url": "https://doi.org/10.1007/s13679-026-00700-z",
+      "section": "Internal exposure in more detail",
+      "score": 36,
+      "summary": "Why Is Colorectal Cancer Occurring Earlier? Metabolic Dysfunction, Underrecognized Carcinogens, and Emerging Controversies. appears relevant because it connects exposome research to internal molecular measurement, especially biomarkers or omics readouts."
+    },
+    {
+      "title": "Exposome involvement in the development of acne vulgaris.",
+      "url": "https://doi.org/10.3389/fimmu.2026.1779036",
+      "section": "Core study designs and flagship projects",
+      "score": 36,
+      "summary": "Exposome involvement in the development of acne vulgaris. appears relevant because it describes research coordination, infrastructure, or platform-scale organization for exposomics in Frontiers in immunology."
+    },
+    {
+      "title": "The impact of military occupational combustion smoke inhalation on neuroinflammation and brain health.",
+      "url": "https://doi.org/10.1016/j.neuro.2026.103394",
+      "section": "Internal exposure in more detail",
+      "score": 36,
+      "summary": "The impact of military occupational combustion smoke inhalation on neuroinflammation and brain health. appears relevant because it connects exposome research to internal molecular measurement, especially biomarkers or omics readouts."
+    },
+    {
+      "title": "Radiologic exposomics: imaging the environmental imprint on cancer for precision oncology.",
+      "url": "https://doi.org/10.1007/s11547-026-02196-y",
+      "section": "Internal exposure in more detail",
+      "score": 35,
+      "summary": "Radiologic exposomics: imaging the environmental imprint on cancer for precision oncology. appears relevant because it connects exposome research to internal molecular measurement, especially biomarkers or omics readouts."
+    },
+    {
+      "title": "AI redefine untargeted metabolomics: estimating chemical amounts for a Human Exposome Project.",
+      "url": "https://doi.org/10.3389/fpubh.2026.1775284",
+      "section": "Internal exposure in more detail",
+      "score": 35,
+      "summary": "AI redefine untargeted metabolomics: estimating chemical amounts for a Human Exposome Project. appears relevant because it connects exposome research to internal molecular measurement, especially biomarkers or omics readouts."
+    },
+    {
+      "title": "Predicting toxicity and bioactivity of the chemical exposome: a case study for the blood exposome database.",
+      "url": "https://doi.org/10.1186/s13321-026-01187-5",
+      "section": "Core study designs and flagship projects",
+      "score": 33,
+      "summary": "Predicting toxicity and bioactivity of the chemical exposome: a case study for the blood exposome database. appears relevant because it describes research coordination, infrastructure, or platform-scale organization for exposomics in Journal of cheminformatics."
+    },
+    {
+      "title": "Integrative Analysis of miRNA and CpG Methylation with the Transcriptome of Lung-Derived Fibroblasts Identifies Epigenetically Regulated Genes in Idiopathic Pulmonary Fibrosis.",
+      "url": "https://doi.org/10.1177/10445498251413058",
+      "section": "Core study designs and flagship projects",
+      "score": 31,
+      "summary": "Integrative Analysis of miRNA and CpG Methylation with the Transcriptome of Lung-Derived Fibroblasts Identifies Epigenetically Regulated Genes in Idiopathic Pulmonary Fibrosis. appears relevant because it describes research coordination, infrastructure, or platform-scale organization for exposomics in DNA and cell biology."
+    },
+    {
+      "title": "The exposome and the human oral microbiome through the one health lens.",
+      "url": "https://doi.org/10.1016/j.archoralbio.2026.106504",
+      "section": "How exposome research is done in practice",
+      "score": 30,
+      "summary": "The exposome and the human oral microbiome through the one health lens. appears relevant to the exposome field because it may influence current methods, standards, or interpretation."
+    }
+  ]
+}
